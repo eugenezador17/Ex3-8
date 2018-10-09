@@ -7,6 +7,7 @@ using namespace std;
 int main(){
     srand(time(nullptr));
     cout << time(nullptr) << endl;
+    cout << "Kirill durak" << std::endl;
 
     const size_t size = 5;
     const size_t cols[size] = {8, 6, 3, 2, 6};
