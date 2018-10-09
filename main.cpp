@@ -9,7 +9,7 @@ int main(){
     cout << time(nullptr) << endl;
 
     const size_t size = 5;
-    const size_t cols[size] = {3, 7, 6, 4, 2};
+    const size_t cols[size] = {8, 6, 3, 2, 6};
 
     int** nums = new int*[size];
     cout << nums << endl;
